@@ -7,11 +7,11 @@
 #include <cmath>  // for abs()
 using namespace std;
 
-// Solution function: counts distinct absolute values in the array
+
 int solution(vector<int>& A) {
     set<int> uniqueAbsValues;
 
-    // Insert absolute value of each element; set automatically removes duplicates
+
     for (int a : A) {
         uniqueAbsValues.insert(abs(a));
     }
