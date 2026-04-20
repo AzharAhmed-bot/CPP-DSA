@@ -1,6 +1,8 @@
 
 
 
+// Q5: C++ equivalent of the given pseudocode using a do-while (REPEAT...UNTIL) loop
+
 #include <iostream>
 using namespace std;
 

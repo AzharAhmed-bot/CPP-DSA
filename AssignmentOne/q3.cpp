@@ -1,3 +1,5 @@
+// Q3: Program to compute area and perimeter of a square using functions
+
 #include <iostream>
 #include <cmath>
 using namespace std;
